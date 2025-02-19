@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Hello World</title>
 </head>
 <body>
 Hello World!
-Sdddddddsatarggggggt!@@@@!!!dd!!sss!!!!!!!!!!
 </body>
 </html>
