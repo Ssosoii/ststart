@@ -7,7 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-Hello World!
-Sdddddddsatarggggggt!@@@@!!!dd!!sss!!!!!!!!!!
+	hello
+	<script>
+		location.href = "index.jsp";
+	</script>
 </body>
 </html>
