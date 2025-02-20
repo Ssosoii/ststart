@@ -3,12 +3,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>Hello World</title>
+	<meta charset="UTF-8">
+	<title>Hello World</title>
+	<script>
+		document.write('Hello Javascript~');
+		document.bgColor='pink';
+	</script>
 </head>
-<body>
-Hello World!
-now check
-and one more
-</body>
+	<body onload="window.alert('Hi');">
+		
+	</body>
 </html>
