@@ -1,3 +1,4 @@
+
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -16,6 +17,7 @@
 				}else{
 					window.alert('oh no');
 				}
+				/* 반환값은 변수로 담아 사용한다. */
 			}
 			function show3(){
 				window.alert();

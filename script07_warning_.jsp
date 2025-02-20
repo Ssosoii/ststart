@@ -19,8 +19,8 @@
 					window.alert('잘 생각 하셨어용');
 				}
 				<!-- 'yes or no' dialog -->
-				 사용자가 yes버튼 or no버튼을 누르는 것에 따라
-				다른 기능을 만들 수 있는데 이유는 confirm은 true/false반환값을 가지고 있다. ]
+				 //사용자가 yes버튼 or no버튼을 누르는 것에 따라
+				//다른 기능을 만들 수 있는데 이유는 confirm은 true/false반환값을 가지고 있다. ]
 			}
 			function show3(){
 				var result = window.prompt('이름을 입력해주세요', '이곳에 넣어주세요');
