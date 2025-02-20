@@ -4,15 +4,18 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>Script class_02</title>
+		<title>Script class_03</title>
 		<script>
-			function hi(){
+			function hi(name){
 				document.write('<h3>안녕하세요.</h3>');
-				document.wrtie('<h3>반갑습니다.</h3>');
+				document.write('<h3>'+name+' 안녕하세요.</h3>');
+				document.write('<h3>'+name+' 안녕하세요.</h3>');
+				document.write('<h3>'+name+' 안녕하세요.</h3>');
+				document.write('<h3>뭐예요.</h3>');
 			}
 			
-			hi();
-			hi();
+			hi('홍길동');
+			hi('둘리');
 			
 		</script>
 	</head>
