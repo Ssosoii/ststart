@@ -10,5 +10,11 @@
 		</script>
 	</head>
 	<body>
+		<h1>취미 프로그램</h1>
+		<form>
+			<label>취미 : </label>
+			<input type="checkbox"  name="cbs" value="독서">독서
+			<input type="checkbox" name ='cbs' value='공부'>공부
+		</form>
 	</body>
 </html>
